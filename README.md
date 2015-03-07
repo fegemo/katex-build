@@ -8,6 +8,11 @@ This repositorty contains the built files of [Khan/KaTeX](https://github.com/Kha
 `bower install katex-build`
 
 
+## Usage with npm
+
+`npm install katex-build`
+
+
 ## Detail
 
 - katex.min.js was fetched from http://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.1.1/katex.min.js
