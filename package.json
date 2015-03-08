@@ -1,11 +1,8 @@
 {
   "name": "katex-build",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "`bower install katex-build` or `npm install katex-build` to use KaTex, the fastest math typesetting library for the web",
   "main": "katex.min.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/fegemo/katex-build.git"
@@ -13,8 +10,12 @@
   "keywords": [
     "math"
   ],
-  "author": "Tyler Long, Flavio Coutinho",
-  "license": "ISC",
+  "author":  "Tyler Long <tyler4long@gmail.com>",
+  "contributors": [{
+    "name": "Flávio Coutinho",
+    "email": "fegemo@gmail.com"
+    }],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fegemo/katex-build/issues"
   },
