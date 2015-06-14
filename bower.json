@@ -5,7 +5,7 @@
     "Tyler Long <tyler4long@gmail.com>"
   ],
   "description": "The fastest math typesetting library for the web.",
-  "main": "katex.min.js",
+  "main": ["katex.min.js","katex.min.css","contrib/auto-render.min.js"],
   "keywords": [
     "katex",
     "tex",
